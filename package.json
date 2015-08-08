@@ -1,6 +1,6 @@
 {
   "name": "agenda",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a listing of javascript topics to explore",
   "main": "index.js",
   "scripts": {
