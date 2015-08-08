@@ -1,0 +1,35 @@
+{
+  "name": "agenda",
+  "version": "0.1.0",
+  "description": "a listing of javascript topics to explore",
+  "main": "index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akileez/agenda.git"
+  },
+  "author": {
+    "name": "Keith Williams",
+    "email": "git@keeda.net",
+    "url": "https://github.com/akileez/agenda"
+  },
+  "homepage": "https://github.com/akileez/agenda",
+  "bugs": {
+    "url": "https://github.com/akileez/agenda/issues"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
