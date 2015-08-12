@@ -1,6 +1,6 @@
 {
   "name": "agenda",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a listing of javascript topics to explore",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
   "files": [
     "LICENSE",
     "index.js",
-    "README.md"
+    "README.md",
+    "lib"
   ]
 }
