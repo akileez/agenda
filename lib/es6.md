@@ -1,0 +1,1 @@
+[es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5)
